@@ -1,4 +1,6 @@
-use std::{fmt::Error, str::FromStr};
+//  Comment the Error and FromStr import since it not been used
+// use std::{fmt::Error, str::FromStr};
+
 use thiserror::Error;
 
 // Custom errors for Bitcoin operations
